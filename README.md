@@ -1,3 +1,3 @@
 # How-TO-Use-XXX
 
-learn more in:https://amueller.github.io/word_cloud/auto_examples/index.html
+###记录学习到的一些库的使用方法
