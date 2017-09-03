@@ -1,0 +1,65 @@
+A Brief Introduction to the Basics of Game Theory
+
+Matthew O. Jackson, Stanford University
+
+I provide a (very) brief introduction to game theory. I have developed these notes to
+
+provide quick access to some of the basics of game theory; mainly as an aid for students
+
+in courses in which I assumed familiarity with game theory but did not require it as a
+
+prerequisite. Of course, the material discussed here is only the proverbial tip of the iceberg,
+
+and there are many sources that oﬀer much more complete treatments of the sub ject.1 Here,
+
+I only cover a few of the most fundamental concepts, and provide just enough discussion
+
+to get the ideas across without discussing many issues associated with the concepts and
+
+approaches. Fuller coverage is available through a free on-line course that can be found via
+my website: http://www.stanford.edu/∼jacksonm/
+The basic elements of performing a noncooperative 2 game-theoretic analysis are (1)
+
+framing the situation in terms of the actions available to players and their payoﬀs as a
+
+function of actions, and (2) using various equilibrium notions to make either descriptive or
+
+1 For graduate-level treatments, see Roger Myerson’s (1991) Game Theory: Analysis of Conﬂict, Cam-
+
+bridge, Mass.: Harvard University Press; Ken Binmore’s (1992) Fun and Games, Lexington, Mass.: D.C.
+
+Heath; Drew Fudenberg and Jean Tirole’s (1993) Game Theory, Cambridge, Mass.: MIT Press; and Martin
+
+Osborne and Ariel Rubinstein’s (1994) A Course in Game Theory, Cambridge, Mass.: MIT Press. There
+
+are also abbreviated texts oﬀering a quick tour of game theory, such as Kevin Leyton-Brown and Yoav
+
+Shoham’s (2008) Essentials of Game Theory, Morgan and Claypool Publishers. For broader readings and
+
+undergraduate level texts, see R. Duncan Luce and Howard Raiﬀa (1959) Games and Decisions: Introduction
+
+and Critical Survey; Robert Gibbons (1992) Game Theory for Applied Economists; Colin F. Camerer (2003)
+
+Behavioral Game Theory: Experiments in Strategic Interaction; Martin J. Osborne (2003) An Introduction
+
+to Game Theory; Joel Watson (2007) Strategy: An Introduction to Game Theory; Avinash K. Dixit and
+
+Barry J. Nalebuﬀ (2010) The Art of Strategy: A Game Theorist’s Guide to Success in Business and Life;
+
+Joseph E. Harrington, Jr. (2010) Games, Strategies, and Decision Making, Worth Publishing.
+2 “Noncooperative game theory” refers to models in which each players are assumed to behave selﬁshly
+
+and their behaviors are directly modeled. “Cooperative game theory,” which I do not cover here, generally
+
+refers to more abstract and axiomatic analyses of bargains or behaviors that players might reach, without
+
+explicitly modeling the processes. The name “cooperative” derives in part from the fact that the analyses
+
+often (but not always) incorporate coalitional considerations, with important early analyses appearing in
+
+John von Neumann and Oskar Morgenstern’s 1944 foundational book “Theory of Games and Economic
+
+Behavior.”
+
+1
+
